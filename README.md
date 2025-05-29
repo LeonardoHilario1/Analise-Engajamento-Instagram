@@ -38,15 +38,19 @@ Foram analisadas mais de 300 postagens fictícias com diferentes formatos e tags
 
 Postagens com rostos visíveis apresentaram uma média maior de curtidas e comentários em comparação às postagens sem pessoas. Isso reforça a ideia de que mostrar pessoas nas imagens ajuda a aumentar o engajamento.
 
-<img src="Imagens/Media_Curtidas_Comentarios_Pessoa.png" alt="Gráfico Tipos" width="650" height="400">
+<img src="Imagens/Media_Curtidas_Comentarios_Pessoa.png" alt="Gráfico Tipos" width="750" height="500">
 
 ### 📸 Tipos de Postagens
 
 Foi criada uma visualização em formato de gráfico de pizza para representar a distribuição dos formatos de conteúdo utilizados nas postagens: Foto, Vídeo, IGTV e Reels.
 
+<img src="Imagens/Grafico_pizza_Tipo.png" alt="Gráfico Tipos" width="750" height="500">
+
 ### 🚀 Tendências de Outros Nichos
 
 A tag "Trends" aparece em terceiro lugar, com uma média de 20.024 curtidas e 352 comentários, o que indica que apostar em conteúdos em alta — mesmo fora do nicho principal — ajuda a ampliar o alcance e engajamento.
+
+<img src="Imagens/Tendencias_NIchos.png" alt="Gráfico Tipos" width="750" height="500">
 
 ---
 
