@@ -1,4 +1,4 @@
-# 📲 Estudo de Engajamento no Instagram com Python
+# 📲 Estudo de Engajamento no Instagram 
 
 Este é um projeto simples de análise de dados desenvolvido para praticar Python e conceitos básicos sobre engajamento em redes sociais. A base de dados simula postagens no Instagram e foi fornecida durante um curso de Ciência de Dados. O objetivo foi identificar fatores que influenciam o engajamento das publicações.
 
