@@ -44,7 +44,7 @@ Postagens com rostos visíveis apresentaram uma média maior de curtidas e comen
 
 Foi criada uma visualização em formato de gráfico de pizza para representar a distribuição dos formatos de conteúdo utilizados nas postagens: Foto, Vídeo, IGTV e Reels.
 
-<img src="Imagens/Grafico_pizza_Tipo.png" alt="Gráfico Tipos" width="750" height="500">
+![Gráfico Tipos de Postagem](Imagens/Grafico_pizza_Tipo.png)
 
 ### 🚀 Tendências de Outros Nichos
 
