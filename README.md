@@ -36,15 +36,15 @@ Foram analisadas mais de 300 postagens fictícias com diferentes formatos e tags
 
 ### 👥 Postagens com Pessoas
 
-Postagens com rostos visíveis tiveram **engajamento significativamente maior**, especialmente quando combinadas com tags como `Promoção` ou `Campanha`.
+Postagens com rostos visíveis apresentaram uma média maior de curtidas e comentários em comparação às postagens sem pessoas. Isso reforça a ideia de que mostrar pessoas nas imagens ajuda a aumentar o engajamento.
 
-### 🎉 Conteúdo Promocional e de Campanha
+### 📸 Tipos de Postagens
 
-Postagens relacionadas a promoções e campanhas obtiveram **os melhores resultados de engajamento**, embora promoções possam gerar custo para a marca.
+Foi criada uma visualização em formato de gráfico de pizza para representar a distribuição dos formatos de conteúdo utilizados nas postagens: Foto, Vídeo, IGTV e Reels.
 
 ### 🚀 Tendências de Outros Nichos
 
-Conteúdos em alta (trends), mesmo que de outros nichos, **ajudaram a aumentar o alcance**.
+A tag "Trends" aparece em terceiro lugar, com uma média de 20.024 curtidas e 352 comentários, o que indica que apostar em conteúdos em alta — mesmo fora do nicho principal — ajuda a ampliar o alcance e engajamento.
 
 ---
 
