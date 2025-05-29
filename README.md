@@ -58,14 +58,3 @@ A tag "Trends" aparece em terceiro lugar, com uma média de 20.024 curtidas e 35
 
 ---
 
-## 🗂️ Arquivos do Projeto
-
-- `analise_engajamento_instagram_revisado.ipynb` – Notebook principal com código, gráficos e conclusões
-
----
-
-## 🧠 Considerações Finais
-
-Este é o meu **primeiro projeto de dados**, criado para aplicar os conhecimentos que estou adquirindo na minha jornada em Ciência de Dados. Apesar de ser uma análise simples, foi feita com dedicação e foco em gerar insights reais a partir de uma base fictícia.
-
-Estou compartilhando este projeto para mostrar minha evolução e construir meu portfólio. Feedbacks são muito bem-vindos!
