@@ -38,7 +38,7 @@ Foram analisadas mais de 300 postagens fictícias com diferentes formatos e tags
 
 Postagens com rostos visíveis apresentaram uma média maior de curtidas e comentários em comparação às postagens sem pessoas. Isso reforça a ideia de que mostrar pessoas nas imagens ajuda a aumentar o engajamento.
 
-<img src="Imagens/Media_Curtidas_Comentarios_Pessoa.png" alt="Gráfico Tipos" width="250">
+<img src="Imagens/Media_Curtidas_Comentarios_Pessoa.png" alt="Gráfico Tipos" width="650">
 
 ### 📸 Tipos de Postagens
 
