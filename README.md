@@ -54,13 +54,7 @@ A tag "Trends" aparece em terceiro lugar, com uma média de 20.024 curtidas e 35
 
 ---
 
-## ✅ Principais Conclusões
 
-- A **presença de pessoas** é um fator chave para engajamento.
-- **Promoções e campanhas** geram excelentes resultados.
-- **Trends** aumentam a visibilidade da marca.
-- Mostrar produtos sendo utilizados por pessoas é mais eficaz.
-- Algumas tags como `Loja` e `Sem tag` precisam de mais testes.
 
 ---
 
